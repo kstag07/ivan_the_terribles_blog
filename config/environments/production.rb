@@ -13,7 +13,7 @@ IvanTheTerriblesBlog::Application.configure do
   #config.assets.initialize_on_precompile = false
   # Compress JavaScripts and CSS
   config.assets.compress = true
-
+#GGGGGGGGGGGGGGGGGGGG
   # Don't fallback to assets pipeline if a precompiled asset is missed
   config.assets.compile = false
 
