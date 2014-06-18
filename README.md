@@ -10,4 +10,4 @@ Russian Doll Caching
 Pagination
 
 
-![alt tag](https://www.dropbox.com/s/71pb4d9wwbqi5mp/Screenshot%202014-06-18%2009.50.05.png)
+![alt tag](http://i.imgur.com/6OfTRXJ.png)
